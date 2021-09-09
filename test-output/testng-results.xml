@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51860" started-at="2021-09-02T12:24:10Z" finished-at="2021-09-02T12:25:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51860" started-at="2021-09-02T12:24:10Z" finished-at="2021-09-02T12:25:02Z">
+      <class name="com.exp.A">
+        <test-method status="PASS" signature="tc0(java.lang.String, java.lang.String)[pri:0, instance:com.exp.A@29ee9faa]" name="tc0" duration-ms="39982" started-at="2021-09-02T12:24:10Z" data-provider="data" finished-at="2021-09-02T12:24:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[welcomejava]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc0(java.lang.String, java.lang.String)[pri:0, instance:com.exp.A@29ee9faa]" name="tc0" duration-ms="6123" started-at="2021-09-02T12:24:50Z" data-provider="data" finished-at="2021-09-02T12:24:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[javawelcome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hijava]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc0(java.lang.String, java.lang.String)[pri:0, instance:com.exp.A@29ee9faa]" name="tc0" duration-ms="5692" started-at="2021-09-02T12:24:56Z" data-provider="data" finished-at="2021-09-02T12:25:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sjdbe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jjfsdk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+      </class> <!-- com.exp.A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
